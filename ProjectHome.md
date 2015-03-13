@@ -1,0 +1,1 @@
+A software about sending and receiving emails ,which is developed by Shenzhen Tencent Computer Corporation
